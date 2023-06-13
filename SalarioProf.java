@@ -1,3 +1,8 @@
+// Aluno: Leandro Scalabrini de Souza Dias
+// RA: 32318945
+// Programa calculadora de salário professor
+// Data de entrega: 19/5/2023
+
 import java.util.Scanner;
 
 public class SalarioProf {
